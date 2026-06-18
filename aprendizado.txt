@@ -2,3 +2,4 @@
 - qual a diferença de log e log --oneline
 - como utilizar e organizar os commit exemplo: init , status config --global e etc.
 - como salvar o arquivo com git add .
+- o que o git show faz
