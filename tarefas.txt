@@ -8,5 +8,9 @@ Fazer exercícios
 
 O que o comando git diff mostra?
 
+Qual a diferença entre os dois comandos?
 
+O que esse comando apresenta?
+(git show)
 
+Liste pelo menos 5 aprendizados sobre Git obtidos durante a atividade.
