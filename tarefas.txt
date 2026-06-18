@@ -1,7 +1,6 @@
 Execute: git log --oneline 
 Anote o resultado.(No arquivo respostas.txt)
 
-Comprar pão
 Estudar Git
 Fazer exercícios
 
