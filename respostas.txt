@@ -1,1 +1,5 @@
 git status : minha branch principal e o status dos meus commits
+"7623605 (HEAD -> master) feat: cria arquivo README inicialEvidência"
+
+git diff montra as difierenças do commit usado agora que eu digitei com o ultimo commit que eu utilizei.
+
